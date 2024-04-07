@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #001e4d;
+}
+.feeling-app{
+background: #fff;
+width: 90%;
+max-width: 600px;
+margin: 100px auto 0;
+border-radius: 10px;
+padding: 30px;
+}
+.feeling-app h1{
+    text-align: center;
+    font-size: 25px;
+    color: #001e4d;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+;
+}
+.date{
+    font-size: 18px;
+    color: #001e4d;
+    font-size: 600;
+    padding: 20px 0;
+}
+.time{
+    font-size: 18px;
+    color: #001e4d;
+    font-size: 600;
+    padding: 20px 0;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
+.emotion{
+    font-size: 18px;
+    color: #001e4d;
+    font-size: 600;
+    padding: 20px 0;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+    
+}
+.ok-button {
+    background: #001e4d;
+    color: #fff;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+
+.row-three h2{
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+}
+.row-three{
+    border-bottom: 1px solid #333; 
+    padding-bottom: 20px;
+}
+.row-four {
+    border-bottom: 1px solid #333;
+    padding-bottom: 20px; 
+}
+.row-four h3{
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+}
+.row-five label{
+    padding-top: 20px;
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 20px;
+}
+.row-five textarea{
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #333; /* Alt kısmına çizgi ekler */
+    padding-bottom: 20px;
+}
+#fileInput{
+ 
+    color: #001e4d;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+
+}
+#dataItem{
+    display: block;
+
+}
